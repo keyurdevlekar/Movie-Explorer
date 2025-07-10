@@ -61,11 +61,6 @@ movie-explorer/
 ```bash
 git clone https://github.com/keyurdevlekar/movie-explorer.git
 cd movie-explorer
-npm install
 
-
-![image](https://github.com/user-attachments/assets/2529d6ee-4016-46f9-a68d-ed6bd841ba1c)
-
-![image](https://github.com/user-attachments/assets/3f7674b8-4ead-4575-885e-bf3d6b4eb0e7)
 
 
