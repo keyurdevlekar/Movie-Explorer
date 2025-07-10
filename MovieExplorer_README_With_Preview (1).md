@@ -112,7 +112,8 @@ If you like the project, please ⭐ the repo and feel free to fork or contribute
 
 Here’s a screenshot of the movie search results in action:
 
-![Search Results](./a8af7d23-de11-46e4-880e-7f32361a00ca.png)
+<img width="700" height="244" alt="image" src="https://github.com/user-attachments/assets/866c08aa-3805-4c42-b813-1246640be80c" />
+
 
 > This shows the result for the keyword **"Iron Man"**, listing all relevant movies with their posters and release years in a responsive card layout.
 
